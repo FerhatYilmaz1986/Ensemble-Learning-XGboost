@@ -2,4 +2,6 @@
 #### Types of ensembles: 
 . Bagging   
 . Boosting   
-. Stacking   
+. Stacking  
+  
+![image.png](images/baggingvsboosting.jpg)   
