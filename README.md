@@ -9,9 +9,9 @@ bias and/or variance of week learners
   
  
 #### Types of ensembles: 
-. Bagging   
-. Boosting   
-. Stacking  
+* Bagging   
+* Boosting   
+* Stacking  
 
 #### Bagging vs Boosting:  
     
