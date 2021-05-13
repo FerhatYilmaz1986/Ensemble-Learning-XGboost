@@ -3,5 +3,7 @@
 . Bagging   
 . Boosting   
 . Stacking  
-  
+
+#### Bagging vs Boosting:  
+    
 ![image.png](images/baggingvsboosting.jpg)   
